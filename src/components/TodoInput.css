@@ -1,0 +1,29 @@
+
+.size
+{
+margin:auto;
+  height:250px;
+  width:250px;
+}
+
+.hero-image-booked {
+  background-image: url("/black_booked.jpeg");
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 330px;
+  width:500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.hero-image-empty {
+  background-image: url("/empty.jpeg");
+  /* background-color: red; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 330px;
+  width:500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
